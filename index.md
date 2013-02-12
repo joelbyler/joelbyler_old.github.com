@@ -42,6 +42,6 @@ tagline: From CleRB InstallFest on February 7, 2013
 - [RailsTutorial.org Tutorial Book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book "RailsTutorial.org Tutorial Book")
 - [Rails Bridge InstallFest](http://installfest.railsbridge.org/installfest/ "Rails Bridge InstallFest")
 
-###Git Tutorials</h4>
+###Git Tutorials
 - [Git / Github - http://github.org](http://try.github.org "Git / Github - http://github.org")
 
