@@ -44,5 +44,4 @@ tagline: From CleRB InstallFest on February 7, 2013
 
 ###Git Tutorials</h4>
 - [Git / Github - http://github.org](http://try.github.org "Git / Github - http://github.org")
-- <a href="http://try.github.org">Git / Github - http://github.org</a></li></ul>
 
