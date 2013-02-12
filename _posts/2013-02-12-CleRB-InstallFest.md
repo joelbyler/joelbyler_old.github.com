@@ -46,3 +46,15 @@ tags: [ruby, CleRB, cleveland, programming]
 
 ###Git Tutorials
 - [Git / Github - http://github.org](http://try.github.org "Git / Github - http://github.org")
+
+``install xcode with command line tools
+
+install homebrew
+brew doctor
+brew update
+brew tap homebrew/dupes
+brew install apple-gcc42
+$ \curl -L https://get.rvm.io | bash -s stable --ruby
+source /Users ...
+rvm get stable``
+
