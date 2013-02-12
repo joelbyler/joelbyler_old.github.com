@@ -1,46 +1,48 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Ruby InstallFest Notes
+tagline: From CleRB InstallFest on February 7, 2013
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+#CleRB InstallFest
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+##Ruby Website
+- Ruby - http://www.ruby-lang.org<
 
-## Update Author Attributes
+##Ruby Installers
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+###All Platforms Ruby; Installers
+- [JRuby - http://www.jruby.org](http://www.jruby.org "JRuby")
+- [Ruby - http://www.rubyinstaller.org/downloads](http://www.rubyinstaller.org/downloads "Ruby")
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+###Windows Only
+- [PIK - http://www.github.com/vertiginous/pik](http://www.github.com/vertiginous/pik "PIK")
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+###Linux / OSX
+- [RVM - http://www.rvm.io](http://www.rvm.io "RVM")
 
-    $ rm -rf _posts/core-samples
+###Additional Optional Downloads
+- [Ruby Devkit](http://www.rubyinstaller.org/add-ons/devkit "Ruby Devkit")
 
-Here's a sample "posts list".
+##Resources
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+###Books
+- [Cucumber and Cheeze - Jeff Morgan (aka Cheezy)](https://leanpub.com/cucumber_and_cheese "Cucumber and Cheeze")
 
-## To-Do
+###Ruby Tutorials
+- [TryRuby.org](http://tryruby.org "TryRuby.org")
+- [RubyMonk.com](http://rubymonk.com "RubyMonk.com")
+- [CodeAcademy.com](http://www.codecademy.com/tracks/ruby "CodeAcademy.com")
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+###General Programming
+- [CodeSchool.com](http://www.codeschool.com/ "CodeSchool.com")
 
+###Rails Tutorials
+- [RailsTutorial.org Tutorial Book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book "RailsTutorial.org Tutorial Book")
+- [Rails Bridge InstallFest](http://installfest.railsbridge.org/installfest/ "Rails Bridge InstallFest")
+
+###Git Tutorials</h4>
+- [Git / Github - http://github.org](http://try.github.org "Git / Github - http://github.org")
+- <a href="http://try.github.org">Git / Github - http://github.org</a></li></ul>
 
