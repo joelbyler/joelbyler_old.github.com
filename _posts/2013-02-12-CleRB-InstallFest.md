@@ -46,8 +46,7 @@ tags: [ruby, CleRB, cleveland, programming]
 
 ###Git Tutorials
 - [Git / Github - http://github.org](http://try.github.org "Git / Github - http://github.org")
-
-    ```
+    ```bash
     install xcode with command line tools
     ...
     $ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
@@ -59,4 +58,3 @@ tags: [ruby, CleRB, cleveland, programming]
     $ source /Users # This will be in the console after <thead></thead> above command is finished
     $ rvm get stable
     ```
-
